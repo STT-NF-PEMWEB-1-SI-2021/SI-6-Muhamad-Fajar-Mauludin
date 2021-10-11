@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Muhamad Fajar Mauludin</title>
+</head>
+<body>
+    <h1>Hai Nama saya Muhamad Fajar Mauludin, bisa dipanggil ajay</h1>
+    <br>
+    <img src="C:\xampp\htdocs\praktikum 2\4nbeqmacin12xdj85d3f-17922-60d6e13606310e2b050c8112.jpg" alt="ajay">
+    <br>
+    <p>TTL: Bogor, 03 Mei 2003</p>
+    <br>
+    <p>Alamat rumah: Depok, Jawa Barat</p>
+    <br>
+    <p>Hobi: Bermain Futsal dan bermain game</p>
+    <br>
+    <p>Cita-Cita:Menjai programer dan Desainer grafis</p>
+    <br>
+    <p>Visi dan Misi:menjadi orang yg bermanfaat bagi sesama</p>
+    <br>
+    <P>Agama: Islam
+</body>
+</html>
